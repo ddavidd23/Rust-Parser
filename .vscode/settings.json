@@ -1,0 +1,4 @@
+{
+    "rust-analyzer.inlayHints.typeHints.enable": false,
+    "editor.inlayHints.enabled": "offUnlessPressed"
+}
